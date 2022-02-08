@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_auto1.xml" value="0.2" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_auto2.xml" value="0.264" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_auto3.xml" value="0.264" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_auto4.xml" value="0.176" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_contactos.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_correos.xml" value="0.2" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_mensajes.xml" value="0.136" />
+        <entry key="..\:/Users/wmedr/AndroidStudioProjects/WalterSemana3Tabs/app/src/main/res/layout/fragment_tab4.xml" value="0.12158054711246201" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
