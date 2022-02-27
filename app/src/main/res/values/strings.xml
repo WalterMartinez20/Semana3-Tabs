@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">Walter-Semana3-Tabs</string>
-    <string name="auto1">auto 1</string>
-    <string name="auto2">auto 2</string>
-    <string name="auto3">auto 3</string>
-    <string name="auto4">auto 4</string>
-    <string name="aut1frag">Fragmento auto1</string>
-    <string name="aut2frag">Fragmento auto2</string>
-    <string name="aut3frag">Fragmento auto3</string>
-    <string name="aut4frag">Fragmento auto4</string>
+    <string name="auto1">Nissan</string>
+    <string name="auto2">Bugatti</string>
+    <string name="auto3">Lambo</string>
+    <string name="auto4">Camaro</string>
+    <string name="aut1frag">Nissan GTR</string>
+    <string name="aut2frag">Bugatti Veyron</string>
+    <string name="aut3frag">Lamborghini Aventador Coupé</string>
+    <string name="aut4frag">Camaro SS</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

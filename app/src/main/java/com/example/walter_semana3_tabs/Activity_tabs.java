@@ -8,9 +8,9 @@ import com.example.walter_semana3_tabs.Controlador.PagerController;
 import com.google.android.material.tabs.TabItem;
 import com.google.android.material.tabs.TabLayout;
 
-public class MainActivity extends AppCompatActivity {
+public class Activity_tabs extends AppCompatActivity {
 
-    //Estos objetos serciran para hacer el enlace con los objetos en la main activity.
+    //Estos objetos serviran para hacer el enlace con los objetos en la main activity.
     TabLayout tablayout;
     ViewPager viewpager;
     TabItem tab1, tab2, tab3, tab4;
@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_tabs);
 
         //En el archivo R. estan los objetos para el enlace.
         tablayout = findViewById(R.id.tablayout_pr);
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         tab3 = findViewById(R.id.tabAuto3);
         tab4 = findViewById(R.id.tabAuto4);
 
-        //Esta adaptador servira para controlar los cambios de los fragment.
+        //Este adaptador servira para controlar los cambios de los fragment.
         pagerAdapter = new PagerController(getSupportFragmentManager(),tablayout.getTabCount());
 
         //Los fragment se mostraran en esta vista viewPager.

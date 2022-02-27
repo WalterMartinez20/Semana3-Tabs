@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity" >
+    tools:context=".Activity_tabs" >
 
     <com.google.android.material.tabs.TabLayout
         android:id="@+id/tablayout_pr"
         android:layout_width="match_parent"
-        android:layout_height="101dp"
-        android:background="@android:color/holo_blue_light">
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_bright">
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/tabAuto1"
@@ -45,6 +45,6 @@
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/viewpager_pr"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    </androidx.viewpager.widget.ViewPager>
+        android:layout_height="match_parent"
+        android:background="@drawable/auto_fondo"></androidx.viewpager.widget.ViewPager>
 </LinearLayout>
